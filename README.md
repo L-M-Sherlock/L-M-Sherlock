@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on [MaiMemo Inc.](https://www.maimemo.com/)
+- 🌱 I’m currently learning algorithms of [spaced repetition](https://en.wikipedia.org/wiki/Spaced_repetition)
+- 👯 I’m looking to collaborate on translating [supermemo.guru-cn](https://github.com/L-M-Sherlock/supermemo.guru-cn)
+- 💬 Ask me about [Anki](https://apps.ankiweb.net/) or [SuperMemo](https://super-memory.com/), I’m a diehard [flashcard](https://en.wikipedia.org/wiki/Flashcard) fan!
+- 📫 How to reach me: jarrett.ye@outlook.com
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=L-M-Sherlock&theme=dark)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=L-M-Sherlock&show_icons=true&theme=dark&count_private=true)
+
