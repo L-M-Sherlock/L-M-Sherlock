@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about [Anki](https://apps.ankiweb.net/) or [SuperMemo](https://super-memory.com/), I’m a diehard [flashcard](https://en.wikipedia.org/wiki/Flashcard) fan!
 - 📫 How to reach me: jarrett.ye@outlook.com
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=L-M-Sherlock&theme=dark)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=L-M-Sherlock&hide=html,css&theme=dark&layout=compact)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=L-M-Sherlock&show_icons=true&theme=dark&count_private=true)
 
