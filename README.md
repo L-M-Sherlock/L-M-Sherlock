@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🏫 I'm a junior CS major in Harbin Institute of Technology, Shenzhen.
-- 🔭 I'm currently working as an intern in [ByteDance Inc](https://www.bytedance.com/).
+- 🏫 I'm a senior CS major in Harbin Institute of Technology, Shenzhen.
+- 🔭 I'm currently working as an intern in [Maimemo Inc](https://www.maimemo.com/).
 - 🌱 I'm developing algorithm of [spaced repetition](https://en.wikipedia.org/wiki/Spaced_repetition) and simulator of human memory.
 - 👯 I'm looking to collaborate on translating [supermemo.guru-cn](https://github.com/L-M-Sherlock/supermemo.guru-cn).
 - 💬 Ask me about [Anki](https://apps.ankiweb.net/) or [SuperMemo](https://super-memory.com/), I'm a diehard [flashcard](https://en.wikipedia.org/wiki/Flashcard) fan!
