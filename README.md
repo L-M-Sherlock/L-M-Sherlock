@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🏫 I'm a senior CS major in Harbin Institute of Technology, Shenzhen.
-- 🔭 I'm currently working as an intern in [Maimemo Inc](https://www.maimemo.com/).
+- 🏫 I'm a graduate CS major at Harbin Institute of Technology, Shenzhen.
+- 🔭 I'm currently working as a research engineer in [Maimemo Inc](https://www.maimemo.com/).
 - 🌱 I'm developing algorithm of [spaced repetition](https://en.wikipedia.org/wiki/Spaced_repetition) and simulator of human memory.
-- 👯 I'm the founder of [Thoughts Memo](https://paratranz.cn/projects/3131), a translation group.
+- 👯 I'm the founder of [Thoughts Memo](https://paratranz.cn/projects/3131), a translation group that spreads educational technology.
 - 💬 Ask me about [Anki](https://apps.ankiweb.net/) or [SuperMemo](https://super-memory.com/), I'm a diehard [flashcard](https://en.wikipedia.org/wiki/Flashcard) fan!
 - 📚 My personal [column](https://www.zhihu.com/column/c_1280249768422608896) is at ZhiHu.
 - 📫 How to reach me: jarrett.ye@outlook.com
