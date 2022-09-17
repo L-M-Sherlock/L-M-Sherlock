@@ -14,12 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 😆 I'm Junyao Ye, 叶峻峣 in Chinese, and I like to use Jarrett Ye as my English name.
 - 🏫 I'm a graduate CS major at Harbin Institute of Technology, Shenzhen.
 - 🔭 I'm currently working as a research engineer in [Maimemo Inc](https://www.maimemo.com/).
 - 🌱 I'm developing algorithm of [spaced repetition](https://en.wikipedia.org/wiki/Spaced_repetition) and simulator of human memory.
 - 👯 I'm the founder of [Thoughts Memo](https://paratranz.cn/projects/3131), a translation group that spreads educational technology.
 - 💬 Ask me about [Anki](https://apps.ankiweb.net/) or [SuperMemo](https://super-memory.com/), I'm a diehard [flashcard](https://en.wikipedia.org/wiki/Flashcard) fan!
-- 📚 My personal [column](https://www.zhihu.com/column/c_1280249768422608896) is at ZhiHu.
+- 📚 My personal [column](https://www.zhihu.com/column/c_1280249768422608896) is at ZhiHu. And my [representative paper](https://www.maimemo.com/paper/) is on ACM SIGKDD.
 - 📫 How to reach me: jarrett.ye@outlook.com
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=L-M-Sherlock&hide=html,css&theme=dark&layout=compact)
