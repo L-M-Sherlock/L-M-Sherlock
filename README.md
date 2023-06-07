@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about [Anki](https://apps.ankiweb.net/) or [SuperMemo](https://super-memory.com/), I'm a diehard [flashcard](https://en.wikipedia.org/wiki/Flashcard) fan!
 - 📚 My personal [column](https://www.zhihu.com/column/c_1280249768422608896) is at ZhiHu. And my [representative paper](https://www.maimemo.com/paper/) is on ACM SIGKDD.
 - 📫 How to reach me: jarrett.ye@outlook.com
+- ☕️ Buy Me a Coffee: https://ko-fi.com/jarrettye
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=L-M-Sherlock&hide=html,css&theme=dark&layout=compact)
 
