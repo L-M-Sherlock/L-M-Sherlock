@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: jarrett.ye@outlook.com
 - ☕️ Buy Me a Coffee: https://ko-fi.com/jarrettye
 
-![Most Used Languages](https://github-readme-stats-l-m-sherlock.vercel.app/api/top-langs/?username=L-M-Sherlock&hide=html,css&theme=transparent&layout=donut)![Github Stats](https://github-readme-stats-l-m-sherlock.vercel.app/api?username=L-M-Sherlock&show_icons=true&theme=transparent&count_private=true)
+![Most Used Languages](https://github-readme-stats-l-m-sherlock.vercel.app/api/top-langs/?username=L-M-Sherlock&hide=html,css&theme=transparent&layout=donut)![Github Stats](https://github-readme-stats-l-m-sherlock.vercel.app/api?username=L-M-Sherlock&show_icons=true&theme=transparent&show=reviews&count_private=true)
