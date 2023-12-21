@@ -24,4 +24,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: jarrett.ye@outlook.com
 - ☕️ Buy Me a Coffee: https://ko-fi.com/jarrettye
 
-![Most Used Languages](https://github-readme-stats-l-m-sherlock.vercel.app/api/top-langs/?username=L-M-Sherlock&hide=kotlin,java,html,css,Jupyter+Notebook&theme=transparent&layout=donut&role=OWNER,ORGANIZATION_MEMBER)![Github Stats](https://github-readme-stats-l-m-sherlock.vercel.app/api?username=L-M-Sherlock&show_icons=true&theme=transparent&show=reviews&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
+
+<div align="center"> 
+  <img 
+    src="https://github-readme-stats-l-m-sherlock.vercel.app/api?username=L-M-Sherlock&rank_icon=percentile&show_icons=true&theme=transparent&show=reviews&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
+    alt="My Github stats"
+    height="220"
+  />
+  <img 
+    src="https://github-readme-stats-l-m-sherlock.vercel.app/api/top-langs/?username=L-M-Sherlock&hide=kotlin,java,html,css,Jupyter+Notebook&theme=transparent&layout=donut&role=OWNER,ORGANIZATION_MEMBER"
+    alt="My Language stats"
+    height="220"
+  />
+</div>
+
