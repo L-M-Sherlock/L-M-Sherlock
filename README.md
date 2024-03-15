@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🌱 I'm developing algorithm of [spaced repetition](https://en.wikipedia.org/wiki/Spaced_repetition) and simulator of human memory.
 - 👯 I'm the founder of [Thoughts Memo](https://paratranz.cn/projects/3131), a translation group that spreads educational technology.
 - 💬 Ask me about [Anki](https://apps.ankiweb.net/) or [SuperMemo](https://super-memory.com/), I'm a diehard [flashcard](https://en.wikipedia.org/wiki/Flashcard) fan!
-- 📚 My personal [column](https://www.zhihu.com/column/c_1280249768422608896) is at ZhiHu. And my [representative paper](https://www.maimemo.com/paper/) is on ACM SIGKDD.
+- 🧑‍🎓 My representative papers are published on [ACM SIGKDD](https://www.maimemo.com/paper/) and [IEEE TKDE](https://www.researchgate.net/publication/369045947_Optimizing_Spaced_Repetition_Schedule_by_Capturing_the_Dynamics_of_Memory).
 - 📫 How to reach me: jarrett.ye@outlook.com
 - ☕️ Buy Me a Coffee: https://ko-fi.com/jarrettye
 
