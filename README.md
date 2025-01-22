@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about [Anki](https://apps.ankiweb.net/) or [SuperMemo](https://super-memory.com/), I'm a diehard [flashcard](https://en.wikipedia.org/wiki/Flashcard) fan!
 - 🧑‍🎓 My representative papers are published on [ACM SIGKDD](https://dl.acm.org/doi/10.1145/3534678.3539081?cid=99660547150) and [IEEE TKDE](https://drive.google.com/file/d/1riJbkH39JB71Wj0AzESTngUM0LaeoD2l/view).
 - 📫 How to reach me: jarrett.ye@outlook.com
-- ☕️ Buy Me a Coffee: https://ko-fi.com/jarrettye
+- ☕️ Buy Me a Coffee: https://ko-fi.com/jarrettye or https://afdian.com/a/jarrettye
 
 
 <div align="center"> 
