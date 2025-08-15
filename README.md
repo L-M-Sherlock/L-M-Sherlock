@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - 😆 I'm Junyao Ye, 叶峻峣 in Chinese, and I like to use Jarrett Ye as my English name.
 - 🏫 I'm a graduate CS major at Harbin Institute of Technology, Shenzhen.
-- 🔭 I'm currently working as a research engineer in [Maimemo Inc](https://www.maimemo.com/).
+- 🔭 I'm currently working as a research engineer in [MaiMemo Inc](https://www.maimemo.com/).
 - 🌱 I'm developing an algorithm of [spaced repetition](https://en.wikipedia.org/wiki/Spaced_repetition) ([FSRS](https://github.com/open-spaced-repetition/fsrs4anki)) and simulator of human memory.
 - 👯 I'm the founder of [Thoughts Memo](https://paratranz.cn/projects/3131), a translation group that spreads educational technology.
 - 💬 Ask me about [Anki](https://apps.ankiweb.net/) or [SuperMemo](https://super-memory.com/), I'm a diehard [flashcard](https://en.wikipedia.org/wiki/Flashcard) fan!
