@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - 🔭 I'm currently working as a research engineer in [MaiMemo Inc](https://www.maimemo.com/).
 - 🌱 I'm developing an algorithm of [spaced repetition](https://en.wikipedia.org/wiki/Spaced_repetition) ([FSRS](https://github.com/open-spaced-repetition/awesome-fsrs)); [benchmark](https://github.com/open-spaced-repetition/srs-benchmark) and [simulator](https://github.com/open-spaced-repetition/srs-simulator) of human memory.
 - 👯 I'm the founder of [Thoughts Memo](https://paratranz.cn/projects/3131), a translation group that spreads educational technology.
+- 📝 I'm an influencer on ZhiHu with 135k+ followers, and my articles are archived in [ZhiHuArchive](https://l-m-sherlock.github.io/ZhiHuArchive/).
 - 💬 Ask me about [Anki](https://apps.ankiweb.net/) or [SuperMemo](https://super-memory.com/), I'm a diehard [flashcard](https://en.wikipedia.org/wiki/Flashcard) fan!
 - 🧑‍🎓 My representative papers are published on [ACM SIGKDD](https://dl.acm.org/doi/10.1145/3534678.3539081?cid=99660547150) and [IEEE TKDE](https://drive.google.com/file/d/1riJbkH39JB71Wj0AzESTngUM0LaeoD2l/view).
 - 📫 How to reach me: jarrett.ye@outlook.com
