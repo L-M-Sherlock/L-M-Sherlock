@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![GitHub Roast 评分徽章](https://githubroast.dev/api/badge/L-M-Sherlock)](https://githubroast.dev/u/L-M-Sherlock)
+
 <!--
 **L-M-Sherlock/L-M-Sherlock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
